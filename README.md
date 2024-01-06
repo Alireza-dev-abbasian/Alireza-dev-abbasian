@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ### 🛠 Backend Languages and tools :
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,ktor,vue,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,vue,js,html,css)](https://skillicons.dev)
 
 <hr>
 
