@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 ### 🛠 Other Languages and tools :
 
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,linux,bash,git,github,gitlab,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,linux,git,github,gitlab,postman)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=py,qt,)](https://skillicons.dev)
 <hr>
